@@ -47,7 +47,7 @@ class _AppointmentScreenState extends State<AppointmentScreen> {
               // Search Bar
               TextField(
                 decoration: InputDecoration(
-                  hintText: 'Search doctors or treatments...',
+                  hintText: 'Search doctors or treatments...', 
                   prefixIcon: const Icon(Icons.search, color: Colors.grey),
                   border: OutlineInputBorder(
                     borderRadius: BorderRadius.circular(30),
